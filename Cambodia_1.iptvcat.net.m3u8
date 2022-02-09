@@ -11,3 +11,15 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?checkedby:iptvcat
 http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="Undefined",TVK
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="News",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SG" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="Undefined",CNA (1080p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="News",CNA News
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcnanews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Religious",CNA (Chaîne Nord Africaine) (360p)
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8?checkedby:iptvcat.com
