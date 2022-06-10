@@ -23,3 +23,7 @@ http://tv365.me:900/7985818317/2980623761/65004
 http://tv365.me:900/7985818317/2980623761/65003
 #EXTINF:-1 tvg-id="" tvg-name="OL| CA TSN 3 HD" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/TSN3.png" group-title="VIP | OLYMPIC-GAMES",OL| CA TSN 3 HD
 http://tv365.me:900/7985818317/2980623761/65002
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| CNN INTERNATIONAL HD" tvg-logo="https://lo1.in/LOGO/AFRICA/CNNINTERNATIONAL.png" group-title="AF | DSTV",DSTV| CNN INTERNATIONAL HD
+http://tv365.me:900/7985818317/2980623761/355042
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-name="NL| NATIONAL GEOGRAPHIC HD" tvg-logo="https://lo1.in/LOGO/netherland/nationalgeo.png" group-title="EU | NETHERLANDS HD",NL| NATIONAL GEOGRAPHIC HD
+http://tv365.me:900/7985818317/2980623761/16840
