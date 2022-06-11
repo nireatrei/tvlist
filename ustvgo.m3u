@@ -1,16 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"
-
-                    #########################################################################
-                    #      ____            _           _   __  __                           #
-                    #     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-                    #     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-                    #     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-                    #     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-                    #                   |__/                                                #
-                    #                                  >> https://github.com/benmoose39     #
-                    #########################################################################
-
-
 #EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png", ABC
 https://h4.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIyIDg6MTE6NTIgQU0maGFzaF92YWx1ZT0zblVUZjNCQUtZcHFSOWdIWmZDVGFRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="ABCNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png", ABC 7 New York
