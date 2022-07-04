@@ -1,3 +1,4 @@
 [Adblock Plus 3.6]
 ! ——— My BlockList ———
 ||adclick.g.doubleclick.net^
+||googleadservices.com^
