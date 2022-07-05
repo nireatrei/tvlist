@@ -2,3 +2,4 @@
 ! ——— My BlockList ———
 ||adclick.g.doubleclick.net^
 ||googleadservices.com^
+||xnxx.com^
